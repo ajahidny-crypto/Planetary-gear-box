@@ -4,9 +4,9 @@ Fully 3D-printed planetary gearbox you turn by hand. No motor, no bearings, no s
 
 Made in Fusion 360, printed on a Bambu Lab P1S in PLA.
 
-![Isometric view of the gearbox parts](gearbox-parts-iso.png)
+![Isometric view of the gearbox parts](01-exploded-module-isometric.png)
 
-![Top view of the gearbox parts](gearbox-parts-top.png)
+![Top view of the gearbox parts](03-full-assembly-top-orthographic.png)
 
 ## What it is
 
@@ -49,7 +49,7 @@ Then I closed Fusion without saving and lost a big chunk of work. Instead of reb
 
 Ratio with the ring held: `1 + (60 / 20) = 4:1`. One crank turn gives a quarter turn at the output, with about 4x the torque minus friction.
 
-![Front profile view of the carrier, ring gear, crank, and planets](gearbox-parts-profile.png)
+![Front profile view of the carrier, ring gear, crank, and planets](05-module-front-profile.png)
 
 ## Known issue
 
@@ -70,9 +70,9 @@ The printed parts still turn smoothly with no binding, so the print clearance is
 | File | Description |
 |---|---|
 | `README.md` | this file |
-| `gearbox-parts-iso.png` | isometric view of the parts |
-| `gearbox-parts-top.png` | top view of the parts |
-| `gearbox-parts-profile.png` | front profile view of the parts |
+| `01-exploded-module-isometric.png` | isometric view of the parts |
+| `03-full-assembly-top-orthographic.png` | top view of the parts |
+| `05-module-front-profile.png` | front profile view of the parts |
 
 ## Result
 
