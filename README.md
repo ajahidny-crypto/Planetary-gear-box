@@ -70,6 +70,7 @@ The printed parts still turn smoothly with no binding, so the print clearance is
 | File | Description |
 |---|---|
 | `README.md` | this file |
+| `planetary-gearbox.stl` | 3D model for printing |
 | `01-exploded-module-isometric.png` | isometric view of the parts |
 | `03-full-assembly-top-orthographic.png` | top view of the parts |
 | `05-module-front-profile.png` | front profile view of the parts |
